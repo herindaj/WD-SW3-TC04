@@ -1,7 +1,7 @@
-*{
-
-    <!-- TOOl --> 
-    outline: ;
+* {
+/*
+    outline-style: dotted;
+*/
 }
 
 .header_header1 {
@@ -10,7 +10,7 @@
     align-items: center;
     background-color: #6c7a89;
     padding: 10px 20px;
-  }
+  
   .titan {
     width: 30px;
   }
@@ -32,6 +32,7 @@
     border-radius: 5px;
     cursor: pointer;
   }
+}
   .header_header2 {
     display: flex;
     justify-content: space-between;
@@ -123,9 +124,8 @@ padding: 0;
   background-color: #555;
   color: black;
 }
-
-
 }
+
 
 
 
