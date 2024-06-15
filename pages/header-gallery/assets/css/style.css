@@ -79,14 +79,18 @@
 
 display: flex;
 list-style: none;
+align-items:center;
 margin: 0;
 padding: 0;
+
 }
 .nav3-link{
+  display: flex;
+  align-items: center;
   color: #000000;
   margin-right: 20px;
   text-decoration: none;
-  color: white;
+  color: black;
   padding: 10px;
 
 }
@@ -95,15 +99,25 @@ padding: 0;
 }
 .two-button {
   display: flex;
-}
-.button {
   background-color: #333;
   color: white;
   padding: 10px 20px;
-  border: none;
   border-radius: 5px;
   margin-right: 10px;
   cursor: pointer;
+
+}
+.Log-in{
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.get-started{
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-right: 10px;
 }
 .button:hover {
   background-color: #555;
