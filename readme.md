@@ -105,5 +105,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| headers | reference. | https://www.wordstream.com/blog/ws/2022/04/27/website-header-examples |
+| headers | reference | https://www.wordstream.com/blog/ws/2022/04/27/website-header-examples |
+|gundam| background picture | https://wall.alphacoders.com/big.php?i=1283296  |
 
