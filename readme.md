@@ -57,13 +57,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-5 examples of header and footers and their animated counterparts.
+5 examples of header and footers and their animated version.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -109,4 +105,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| headers | reference. | https://www.wordstream.com/blog/ws/2022/04/27/website-header-examples |
+
